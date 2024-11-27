@@ -1,0 +1,17 @@
+.columnas{
+    /*column-width: 20em;*/
+
+    /*text-align: justify; 
+    columns: 3 2em;
+    float: left;*/
+
+    column-gap: 7em;
+    columns: 3;
+    text-align: justify;
+    /*column-rule: black solid 3px;*/
+
+    /*column-rule-color: brown;
+    column-rule-style: dashed;
+    column-rule-width: 2px;*/
+    
+     }

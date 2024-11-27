@@ -1,0 +1,98 @@
+
+/*@import url('https://fonts.cdnfonts.com/css/storm-breaker');
+
+
+
+    
+
+
+td{
+    text-align: right;
+    font-family: 'STORM BREAKER', sans-serif;
+                                                
+
+}
+tr{
+    background-color: rgb(76, 130, 86);
+}
+
+.servicios {
+    font-family: cursive;
+    font-size: 70px;
+    font-weight: 500;
+    background-color: rgb(161, 161, 192);
+
+}
+.cuadrado{
+    width: 20px;
+    height: 20px;
+    background-color: chartreuse;
+    margin-bottom: ;
+    }*/
+    .contenedor{
+        position: relative;
+        max-width: 100%;
+        height: max-content;
+
+    }
+    .fila1 {
+        position:relative;
+        background-color: rgb(11, 14, 1);
+        height: 200px;
+        width:100%;
+
+
+    }
+    
+
+    .cuadro1 {
+        position:relative;
+        background-color: rgb(232, 28, 45);
+        height: 100px;
+        width:33.33%;
+        float: left;
+        
+
+
+    }
+    .cuadro2 {
+        position:relative;
+        background-color: rgb(63, 240, 128);
+        height: 100px;
+        width:33.33%;
+        float: left;
+
+
+    }
+    .cuadro3 {
+        position:relative;
+        background-color: rgb(18, 49, 227);
+        height: 100px;
+        width:33.33%;
+        float: right;
+        
+
+    }
+    .fila3{
+        position:relative;
+       background-color: black;
+       heidht: 200px;
+
+    }
+    .rectangulo1{
+        position:relative;
+        background-color: pink;
+        width: 50%;
+        height: 200px;
+        float: left;
+    }
+
+    .rectangulo2{
+        position:relative;
+        background-color: rgb(222, 245, 77);
+        width: 50%;
+        height: 200px;
+        float:right;
+    }
+
+    
